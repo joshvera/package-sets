@@ -397,7 +397,7 @@
       "dom"
     ],
     "repo": "https://github.com/garyb/purescript-dom-classy.git",
-    "version": "v2.1.0"
+    "version": "v2.2.0"
   },
   "dom-indexed": {
     "dependencies": [
