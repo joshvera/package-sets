@@ -2065,6 +2065,30 @@
     "repo": "https://github.com/purescript-contrib/purescript-strongcheck.git",
     "version": "v3.1.0"
   },
+  "subscriber": {
+      "dependencies": [
+          "console",
+          "dom",
+          "maybe",
+          "tuplesl",
+          "generics",
+          "signal",
+          "maps",
+          "websocket-simple",
+          "var",
+          "refs",
+          "argonaut-generic-codecs",
+          "profunctor-lenses",
+          "prelude",
+          "bifunctors",
+          "partial",
+          "servant-support",
+          "eff-functions",
+          "transformers"
+      ],
+      "repo": "https://github.com/eskimor/purescript-subscriber",
+      "version": "1.0.0"
+  },
   "symbols": {
     "dependencies": [
       "unsafe-coerce",
