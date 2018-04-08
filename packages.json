@@ -2087,7 +2087,7 @@
           "transformers"
       ],
       "repo": "https://github.com/joshvera/purescript-subscriber",
-      "version": "1.0.0"
+      "version": "v0.1.0"
   },
   "symbols": {
     "dependencies": [
