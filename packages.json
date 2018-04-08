@@ -2086,7 +2086,7 @@
           "eff-functions",
           "transformers"
       ],
-      "repo": "https://github.com/eskimor/purescript-subscriber",
+      "repo": "https://github.com/joshvera/purescript-subscriber",
       "version": "1.0.0"
   },
   "symbols": {
