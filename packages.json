@@ -2078,12 +2078,12 @@
           "var",
           "refs",
           "argonaut-generic-codecs",
+          "argonaut",
           "profunctor-lenses",
           "prelude",
           "bifunctors",
           "partial",
           "servant-support",
-          "eff-functions",
           "transformers"
       ],
       "repo": "https://github.com/joshvera/purescript-subscriber",
